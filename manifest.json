@@ -7,7 +7,7 @@
   "theme_color": "#1a1a16",
   "icons": [
     {
-      "src": "kopitalis.png",
+      "src": "kopi.png",
       "sizes": "512x512",
       "type": "image/png"
     }
